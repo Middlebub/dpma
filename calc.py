@@ -14,4 +14,7 @@ def mul(x, y):
 def div(x, y):
    pass
   
+def square(x):
+  pass
+ 
 
