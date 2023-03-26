@@ -4,7 +4,7 @@ def add(x, y):
 
 
 def sub(x, y):
-   pass
+   return x -y
   
  
 def mul(x, y):
